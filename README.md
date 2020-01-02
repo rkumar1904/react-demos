@@ -35,9 +35,7 @@ Then play with the source files under the repo's demo* directories.
   <body>
     <div id="example"></div>
     <script type="text/babel">
-
       // ** Our code goes here! **
-
     </script>
   </body>
 </html>
